@@ -1,0 +1,16 @@
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\bin\Debug\net5.0\IntermediateCourseWorkflow.exe
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\bin\Debug\net5.0\IntermediateCourseWorkflow.deps.json
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\bin\Debug\net5.0\IntermediateCourseWorkflow.runtimeconfig.json
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\bin\Debug\net5.0\IntermediateCourseWorkflow.runtimeconfig.dev.json
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\bin\Debug\net5.0\IntermediateCourseWorkflow.dll
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\bin\Debug\net5.0\IntermediateCourseWorkflow.pdb
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.AssemblyInfo.cs
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.dll
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\refint\IntermediateCourseWorkflow.dll
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.pdb
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\IntermediateCourseWorkflow.genruntimeconfig.cache
+C:\Users\willi\source\repos\IntermediateCourseWorkflow\IntermediateCourseWorkflow\obj\Debug\net5.0\ref\IntermediateCourseWorkflow.dll

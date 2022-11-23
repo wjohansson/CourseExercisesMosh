@@ -1,0 +1,16 @@
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\bin\Debug\net5.0\IntermediateCourseStack.exe
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\bin\Debug\net5.0\IntermediateCourseStack.deps.json
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\bin\Debug\net5.0\IntermediateCourseStack.runtimeconfig.json
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\bin\Debug\net5.0\IntermediateCourseStack.runtimeconfig.dev.json
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\bin\Debug\net5.0\IntermediateCourseStack.dll
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\bin\Debug\net5.0\IntermediateCourseStack.pdb
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.AssemblyInfo.cs
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.dll
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\refint\IntermediateCourseStack.dll
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.pdb
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\IntermediateCourseStack.genruntimeconfig.cache
+C:\Users\willi\source\repos\IntermediateCourseStack\IntermediateCourseStack\obj\Debug\net5.0\ref\IntermediateCourseStack.dll

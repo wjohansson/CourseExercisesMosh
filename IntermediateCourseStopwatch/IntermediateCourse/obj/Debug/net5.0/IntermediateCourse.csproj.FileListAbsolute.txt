@@ -1,0 +1,16 @@
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\bin\Debug\net5.0\IntermediateCourse.exe
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\bin\Debug\net5.0\IntermediateCourse.deps.json
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\bin\Debug\net5.0\IntermediateCourse.runtimeconfig.json
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\bin\Debug\net5.0\IntermediateCourse.runtimeconfig.dev.json
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\bin\Debug\net5.0\IntermediateCourse.dll
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\bin\Debug\net5.0\IntermediateCourse.pdb
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.AssemblyInfo.cs
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.dll
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\refint\IntermediateCourse.dll
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.pdb
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\IntermediateCourse.genruntimeconfig.cache
+C:\Users\willi\source\repos\IntermediateCourse\IntermediateCourse\obj\Debug\net5.0\ref\IntermediateCourse.dll

@@ -1,0 +1,16 @@
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\bin\Debug\net5.0\IntermediateCourseDbConnection.exe
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\bin\Debug\net5.0\IntermediateCourseDbConnection.deps.json
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\bin\Debug\net5.0\IntermediateCourseDbConnection.runtimeconfig.json
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\bin\Debug\net5.0\IntermediateCourseDbConnection.runtimeconfig.dev.json
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\bin\Debug\net5.0\IntermediateCourseDbConnection.dll
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\bin\Debug\net5.0\IntermediateCourseDbConnection.pdb
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.AssemblyInfo.cs
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.dll
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\refint\IntermediateCourseDbConnection.dll
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.pdb
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\IntermediateCourseDbConnection.genruntimeconfig.cache
+C:\Users\willi\source\repos\IntermediateCourseDbConnection\IntermediateCourseDbConnection\obj\Debug\net5.0\ref\IntermediateCourseDbConnection.dll

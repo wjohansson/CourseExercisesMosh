@@ -1,0 +1,16 @@
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\bin\Debug\net5.0\IntermediateCoursePost.exe
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\bin\Debug\net5.0\IntermediateCoursePost.deps.json
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\bin\Debug\net5.0\IntermediateCoursePost.runtimeconfig.json
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\bin\Debug\net5.0\IntermediateCoursePost.runtimeconfig.dev.json
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\bin\Debug\net5.0\IntermediateCoursePost.dll
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\bin\Debug\net5.0\IntermediateCoursePost.pdb
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.AssemblyInfo.cs
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.dll
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\refint\IntermediateCoursePost.dll
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.pdb
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\IntermediateCoursePost.genruntimeconfig.cache
+C:\Users\willi\source\repos\IntermediateCoursePost\IntermediateCoursePost\obj\Debug\net5.0\ref\IntermediateCoursePost.dll
