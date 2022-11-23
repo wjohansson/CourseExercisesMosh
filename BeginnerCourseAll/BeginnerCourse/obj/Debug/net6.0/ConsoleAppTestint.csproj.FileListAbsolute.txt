@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\bin\Debug\net6.0\ConsoleAppTestint.exe
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\bin\Debug\net6.0\ConsoleAppTestint.deps.json
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\bin\Debug\net6.0\ConsoleAppTestint.runtimeconfig.json
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\bin\Debug\net6.0\ConsoleAppTestint.dll
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\bin\Debug\net6.0\ConsoleAppTestint.pdb
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.AssemblyInfo.cs
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.dll
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\refint\ConsoleAppTestint.dll
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.pdb
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ConsoleAppTestint.genruntimeconfig.cache
+C:\Users\willi\source\repos\ConsoleAppTestint\ConsoleAppTestint\obj\Debug\net6.0\ref\ConsoleAppTestint.dll

@@ -1,0 +1,30 @@
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.exe
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.deps.json
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.runtimeconfig.json
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.dll
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.pdb
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.AssemblyInfo.cs
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.dll
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\refint\BeginnerCourse.dll
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.pdb
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.genruntimeconfig.cache
+C:\Users\willi\source\repos\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\ref\BeginnerCourse.dll
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.exe
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.deps.json
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.runtimeconfig.json
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.dll
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\bin\Debug\net6.0\BeginnerCourse.pdb
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.AssemblyInfo.cs
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.dll
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\refint\BeginnerCourse.dll
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.pdb
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\BeginnerCourse.genruntimeconfig.cache
+C:\Users\willi\source\repos\Course Exercises Mosh\BeginnerCourse\ConsoleAppTestint\obj\Debug\net6.0\ref\BeginnerCourse.dll
