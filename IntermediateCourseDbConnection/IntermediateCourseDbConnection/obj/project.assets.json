@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\source\\repos\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\source\\repos\\CourseExercisesMosh\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection.csproj",
       "projectName": "IntermediateCourseDbConnection",
-      "projectPath": "C:\\Users\\willi\\source\\repos\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection.csproj",
+      "projectPath": "C:\\Users\\willi\\source\\repos\\CourseExercisesMosh\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\source\\repos\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection\\obj\\",
+      "outputPath": "C:\\Users\\willi\\source\\repos\\CourseExercisesMosh\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",

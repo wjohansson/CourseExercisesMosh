@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\BeginnerCourse",
-    "\\BeginnerCourse\\ConsoleAppTestint"
+    "\\BeginnerCourse\\BeginnerCourse",
+    "\\IntermediateCourseDbConnection",
+    "\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection"
   ],
-  "SelectedNode": "\\BeginnerCourse\\ConsoleAppTestint\\Exercises5.cs",
+  "SelectedNode": "\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection.csproj",
   "PreviewInSolutionExplorer": false
 }
