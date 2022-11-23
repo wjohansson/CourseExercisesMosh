@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BeginnerCourse",
-    "\\BeginnerCourse\\BeginnerCourse",
     "\\IntermediateCourseDbConnection",
     "\\IntermediateCourseDbConnection\\IntermediateCourseDbConnection"
   ],
-  "SelectedNode": "\\BeginnerCourse\\BeginnerCourse\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
