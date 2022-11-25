@@ -6,7 +6,7 @@ namespace BeginnerCourse
     {
         static void Main(string[] args)
         {
-            Exercises5.Exercise2();
+            Exercises5.Exercise1();
         }
     }
 }

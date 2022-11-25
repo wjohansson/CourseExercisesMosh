@@ -12,7 +12,7 @@ namespace BeginnerCourse
         private static string _currentDir = Environment.CurrentDirectory;
         private static string _path = Directory.GetParent(_currentDir).Parent.Parent.FullName + @"\TextFile1.txt";
 
-        public static void Exercise1()
+        public static void Exercise1() // Count number of words in file: TextFile1.txt
         {
             var text = File.ReadAllText(_path);
             var arrayText = text.Split(' ');
@@ -25,13 +25,14 @@ namespace BeginnerCourse
                 {
                     continue;
                 }
+
                 textList.Add(item);
             }
 
-            Console.WriteLine("Number of words in text file: " + textList.Count());
+            Console.WriteLine("Number of words in text file: " + textList.Count);
         }
 
-        public static void Exercise2()
+        public static void Exercise2() // Calculate longest word in file: TextFile1.txt
         {
             var text = File.ReadAllText(_path);
             var arrayText = text.Split(' ');

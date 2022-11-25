@@ -4,7 +4,7 @@ namespace BeginnerCourse
 {
     public class Exercises1
     {
-        public static void Exercise1()
+        public static void Exercise1() //Check if input is a number between 1 and 10
         {
             Console.WriteLine("Enter a number between 1 and 10: ");
             int num = Convert.ToInt32(Console.ReadLine());
@@ -19,7 +19,7 @@ namespace BeginnerCourse
             }
         }
 
-        public static void Exercise2()
+        public static void Exercise2() //Get max number
         {
             Console.WriteLine("Enter first number: ");
             int num1 = Convert.ToInt32(Console.ReadLine());
@@ -32,7 +32,7 @@ namespace BeginnerCourse
             Console.WriteLine($"Max number is: {max}");
         }
 
-        public static void Exercise3()
+        public static void Exercise3() //Check if photo is landscape or portrait
         {
             Console.WriteLine("Enter width of the image: ");
             int width = Convert.ToInt32(Console.ReadLine());
@@ -50,7 +50,7 @@ namespace BeginnerCourse
             Landscape,
         }
 
-        public static void Exercise4()
+        public static void Exercise4() //Check if speeding, and determine demerit points, suspend lisence if 12 or over
         {
             Console.WriteLine("Enter the speed limit: ");
             int speedLimit = Convert.ToInt32(Console.ReadLine());

@@ -5,7 +5,7 @@ namespace BeginnerCourse
 {
     public class Exercises3
     {
-        public static void Exercise1()
+        public static void Exercise1() //Display likes on a post
         {
             var namesList = new List<string>();
 
@@ -58,7 +58,7 @@ namespace BeginnerCourse
             }
         }
 
-        public static void Exercise2()
+        public static void Exercise2() //Reverse name
         {
             Console.WriteLine("Enter your name: ");
             var name = Console.ReadLine();
@@ -70,7 +70,7 @@ namespace BeginnerCourse
             Console.WriteLine($"Your name reversed is: {new String(charArray)}");
         }
 
-        public static void Exercise3()
+        public static void Exercise3() //Creates a list of unique numbers
         {
             var numberList = new List<int>();
 
@@ -106,7 +106,7 @@ namespace BeginnerCourse
             }
         }
 
-        public static void Exercise4()
+        public static void Exercise4() //Displays each number in an input list once
         {
             var numberList = new List<int>();
 
@@ -136,7 +136,7 @@ namespace BeginnerCourse
             }
         }
 
-        public static void Exercise5()
+        public static void Exercise5() //Gets 3 smallest numbers of a list of a minimum 5 numbers
         {
             var numbersList = new List<int>();
             Console.WriteLine("Enter a list of at least 5 comma separated numbers:");

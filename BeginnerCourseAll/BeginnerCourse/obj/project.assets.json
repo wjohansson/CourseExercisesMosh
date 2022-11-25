@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\source\\repos\\IntermediateExercisesMosh\\BeginnerCourse\\BeginnerCourse\\BeginnerCourse.csproj",
+      "projectUniqueName": "C:\\Users\\willi\\source\\repos\\CourseExercisesMosh\\BeginnerCourseAll\\BeginnerCourse\\BeginnerCourse.csproj",
       "projectName": "BeginnerCourse",
-      "projectPath": "C:\\Users\\willi\\source\\repos\\IntermediateExercisesMosh\\BeginnerCourse\\BeginnerCourse\\BeginnerCourse.csproj",
+      "projectPath": "C:\\Users\\willi\\source\\repos\\CourseExercisesMosh\\BeginnerCourseAll\\BeginnerCourse\\BeginnerCourse.csproj",
       "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\source\\repos\\IntermediateExercisesMosh\\BeginnerCourse\\BeginnerCourse\\obj\\",
+      "outputPath": "C:\\Users\\willi\\source\\repos\\CourseExercisesMosh\\BeginnerCourseAll\\BeginnerCourse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",

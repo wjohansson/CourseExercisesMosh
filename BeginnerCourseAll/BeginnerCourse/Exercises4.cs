@@ -9,7 +9,7 @@ namespace BeginnerCourse
 {
     public class Exercises4
     {
-        public static void Exercise1()
+        public static void Exercise1() // Checks if numbers are consecutive in an input list
         {
             Console.WriteLine("Enter a sequence of numbers separated by a hyphen:");
             var input = Console.ReadLine();
@@ -46,7 +46,7 @@ namespace BeginnerCourse
             return true;
         }
 
-        public static void Exercise2()
+        public static void Exercise2() // Checks if there exists a duplicate number in an input list
         {
             Console.WriteLine("Enter a sequence of numbers separated by a hyphen:");
             var input = Console.ReadLine();
@@ -86,7 +86,7 @@ namespace BeginnerCourse
             return false;
         }
 
-        public static void Exercise3()
+        public static void Exercise3() // Time format validation
         {
             Console.WriteLine("Write a time (ex: 19:20):");
             var time = Console.ReadLine().Split(':');
@@ -114,7 +114,7 @@ namespace BeginnerCourse
             return false;
         }
 
-        public static void Exercise4()
+        public static void Exercise4() // Converts sentance to PascalNotation
         {
             Console.WriteLine("Enter a sentence: ");
             var sentence = Console.ReadLine().Split(' ');
@@ -137,7 +137,7 @@ namespace BeginnerCourse
             return variableName;
         }
 
-        public static void Exercise5()
+        public static void Exercise5() // Counts the number of vowels in a word
         {
             Console.WriteLine("Write an english word:");
             var word = Console.ReadLine().ToLower();

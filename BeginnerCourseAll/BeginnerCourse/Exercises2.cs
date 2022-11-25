@@ -9,7 +9,7 @@ namespace BeginnerCourse
 {
     public class Exercises2
     {
-        public static void Exercise1()
+        public static void Exercise1() // Count amount of numbers divisible by 3 between 1 and 100
         {
             int count = 0;
 
@@ -25,7 +25,7 @@ namespace BeginnerCourse
 
         }
 
-        public static void Exercise2()
+        public static void Exercise2() // Calculates a running total
         {
             int total = 0;
 
@@ -47,7 +47,7 @@ namespace BeginnerCourse
             }
         }
 
-        public static void Exercise3()
+        public static void Exercise3() //Calculates the factorial of an input
         {
             Console.WriteLine("Enter a number to calculate the factorial: ");
             int number = Convert.ToInt32(Console.ReadLine());
@@ -62,7 +62,7 @@ namespace BeginnerCourse
             Console.WriteLine($"{number}! = {factorial}");
         }
 
-        public static void Exercise4()
+        public static void Exercise4() //Guessing game, 4 tries, number between 1 and 10
         {
             var number = new Random().Next(1, 11);
             var guesses = new List<int>();
@@ -107,7 +107,7 @@ namespace BeginnerCourse
 
         }
 
-        public static void Exercise5()
+        public static void Exercise5() //Get an input list of some comma separated numbers, get max number
         {
             Console.WriteLine("Enter a series of numbers separated by a comma: ");
             var input = Console.ReadLine();
